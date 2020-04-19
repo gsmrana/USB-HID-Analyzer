@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USB HID Analyzer", "USB HID Analyzer\USB HID Analyzer.csproj", "{61994020-DB89-4621-BA4B-7347A2142CFF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "USB HID Analyzer Setup", "USB HID Analyzer Setup\USB HID Analyzer Setup.vdproj", "{9F4ACC77-0C74-4D20-9574-9276EA49F6AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61994020-DB89-4621-BA4B-7347A2142CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61994020-DB89-4621-BA4B-7347A2142CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61994020-DB89-4621-BA4B-7347A2142CFF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{61994020-DB89-4621-BA4B-7347A2142CFF}.Debug|x64.Build.0 = Debug|Any CPU
+		{61994020-DB89-4621-BA4B-7347A2142CFF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{61994020-DB89-4621-BA4B-7347A2142CFF}.Debug|x86.Build.0 = Debug|Any CPU
+		{61994020-DB89-4621-BA4B-7347A2142CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61994020-DB89-4621-BA4B-7347A2142CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61994020-DB89-4621-BA4B-7347A2142CFF}.Release|x64.ActiveCfg = Release|Any CPU
+		{61994020-DB89-4621-BA4B-7347A2142CFF}.Release|x64.Build.0 = Release|Any CPU
+		{61994020-DB89-4621-BA4B-7347A2142CFF}.Release|x86.ActiveCfg = Release|Any CPU
+		{61994020-DB89-4621-BA4B-7347A2142CFF}.Release|x86.Build.0 = Release|Any CPU
+		{9F4ACC77-0C74-4D20-9574-9276EA49F6AE}.Debug|Any CPU.ActiveCfg = Debug
+		{9F4ACC77-0C74-4D20-9574-9276EA49F6AE}.Debug|x64.ActiveCfg = Debug
+		{9F4ACC77-0C74-4D20-9574-9276EA49F6AE}.Debug|x86.ActiveCfg = Debug
+		{9F4ACC77-0C74-4D20-9574-9276EA49F6AE}.Release|Any CPU.ActiveCfg = Release
+		{9F4ACC77-0C74-4D20-9574-9276EA49F6AE}.Release|x64.ActiveCfg = Release
+		{9F4ACC77-0C74-4D20-9574-9276EA49F6AE}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7C545A5-5D17-4372-9E68-B6A3287B28E1}
+	EndGlobalSection
+EndGlobal
